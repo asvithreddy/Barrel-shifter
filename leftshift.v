@@ -1,4 +1,4 @@
-\\barrel_shift_16bit_left.v
+barrel_shift_16bit_left.v
 module barrel_shift_16bit_left (in, ctrl, out);
   input  [15:0] in;
   input [3:0] ctrl;
